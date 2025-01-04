@@ -16,11 +16,6 @@ superuser: true
 # Role/position/tagline
 role: Desarrolladora web Junior
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Diario de La Rioja
-    url: https://www.larioja.com/?ref=https%3A%2F%2Fwww.larioja.com%2F
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -28,31 +23,23 @@ profiles:
     url: 'mailto:angelairuzubi97@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/EnriqueHormilla
+    url: https://github.com/AngelaIruzubieta
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/angela-iruzubieta/?originalSubdomain=es
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Desarrollo de Aplicacione Multiplataforma y Web(Dual)
+    institution: IES Comercio
+    date_start: 2024-09-09
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      Grado en Multiplataforma Web (MULWEB) enfocado en el desarrollo de aplicaciones web y móviles, utilizando tecnologías como HTML, CSS, JavaScript,Java,PHP,SQL,etc. Formación teórica combinada con prácticas en empresas para aplicar conocimientos en proyectos reales. Adquisición de habilidades en programación, diseño de interfaces y gestión de entornos digitales.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01

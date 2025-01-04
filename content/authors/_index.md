@@ -1,9 +1,48 @@
 ---
-# To publish author profile pages, remove all the `_build` and `cascade` settings below.
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
+title: 'Home'
+date: 2023-10-24
+type: landing
+
+design:
+  # Default section spacing
+  spacing: "4rem"
+
+# Note: `username` refers to the user's folder name in `content/authors/`
+
+# Page sections
+sections:
+  - block: biography
+    content:
+      username: admin
+      # Show a call-to-action button under your biography? (optional)
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
+    design:
+      banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: background.jpg
+      biography:
+        # Customize the style of your biography text
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: skills
+    content:
+      title: Technical Skills
+      username: admin
+  - block: languages
+    content:
+      title: Languages
+      username: admin      
+  - block: awards
+    content:
+      title: Additional
+      username: admin
 ---

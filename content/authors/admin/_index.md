@@ -31,7 +31,7 @@ education:
  - area: Doble titulación DAW-DAM
     institution: IES Comercio
     date_start: 2024-09-09
-    date_end: 
+    date_end: null
     summary: |
      Formación integral en programación, diseño y desarrollo de aplicaciones web y multiplataforma.
       Uso de lenguajes como Java, HTML, CSS y PHP. Gestión de bases de datos y metodologías ágiles.

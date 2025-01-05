@@ -3,8 +3,8 @@
 title: Ángela Iruzubieta García
 
 # Full name (for SEO)
-first_name: Ángela
-last_name: Iruzuieta
+nombre: Ángela
+apellido: Iruzuieta
 
 # Status emoji
 status:
@@ -28,123 +28,96 @@ profiles:
     url: https://www.linkedin.com/in/angela-iruzubieta/?originalSubdomain=es
 
 education:
-  - area: Desarrollo de Aplicacione Multiplataforma y Web(Dual)
+ - area: Doble titulación DAW-DAM
     institution: IES Comercio
     date_start: 2024-09-09
+    date_end: 
     summary: |
-      
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Grado en Multiplataforma Web (MULWEB) enfocado en el desarrollo de aplicaciones web y móviles, utilizando tecnologías como HTML, CSS, JavaScript,Java,PHP,SQL,etc. Formación teórica combinada con prácticas en empresas para aplicar conocimientos en proyectos reales. Adquisición de habilidades en programación, diseño de interfaces y gestión de entornos digitales.
+     Formación integral en programación, diseño y desarrollo de aplicaciones web y multiplataforma.
+      Uso de lenguajes como Java, HTML, CSS y PHP. Gestión de bases de datos y metodologías ágiles.
 
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Certificado de profesionalidad en Desarrollo Web
+    institution: ADR Formación, Logroño
+    date_start: 2024-04-01
+    date_end: 2024-10-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Formación en front-end y back-end: HTML, CSS, JavaScript, PHP, SQL, y herramientas relacionadas.
+
+  - area: Certificado en Big Data
+    institution: The Valley Digital School / Red.es, Sevilla
+    date_start: 2023-09-01
+    date_end: 2023-11-30
+    summary: |
+      Habilidades en análisis de datos con Google Analytics, SQL, Python (Pandas, NumPy, Matplotlib), Machine Learning, Spark, Databricks, y Kaggle.
+  - area: Grado Universitario en Trabajo Social
+    institution: Universidad de Zaragoza
+    date_start: 2016-10-01
+    date_end: 2019-06-30
+    summary: |
+      Conocimientos en estadística, economía y sociología, aplicados al ámbito social.
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Desarrolladora Web (Prácticas)
+    company_name: Nueva Rioja
+    company_url: https://www.larioja.com/
+    date_start: 2024-09-01
+    date_end: 2024-10-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Creación de páginas web desde cero con HTML, CSS y JavaScript.
+      - Desarrollo de aplicaciones internas en PHP y gestión de bases de datos.
+      - Gestión de contenidos en WordPress y análisis con Google Analytics.
+  - position: Educadora Social
+    company_name: ASPRODEMA
+    date_start: 2020-07-01
+    date_end: 2023-06-30
+    summary: |
+      - Coordinación de equipos y gestión de actividades.
+      - Seguimiento de usuarios con diversidad intelectual y promoción de vida independiente.
+  - position: Auxiliar de Residencia
+    company_name: Asociación Igual a ti
+    date_start: 2019-07-01
+    date_end: 2020-06-30
+    summary: |
+      - Apoyo a personas con diversidad funcional en su día a día.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  skills:
+  - name: Tecnologías
     items:
+      - name: HTML
+        percent: 90
+      - name: CSS
+        percent: 80
+      - name: JavaScript
+        percent: 70
+      - name: PHP
+        percent: 75
       - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: SQL
+        percent: 85
+      - name: Tableau
+        percent: 65
+      - name: AWS
+        percent: 50
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Idiomas
+    items:
+      - name: Español
+        description: Nativo
+        percent: 100
+      - name: Inglés
+        description: B2 (First Certificate)
+        percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+   - title: AWS Cloud Practitioner
+    date: 2023-01-01
+    awarder: Amazon Web Services
+    summary: Certificación básica en fundamentos de la nube de AWS.
 ---

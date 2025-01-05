@@ -23,13 +23,13 @@ profiles:
     url: 'mailto:angelairuzubi97@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/EnriqueHormilla
+    url: https://github.com/AngelaIruzubieta
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/angela-iruzubieta/?originalSubdomain=es
 
 education:
-  - area: Doble titulación DAW-DAM
-    institution: IES CoMERCIO
+ - area: Doble titulación DAW-DAM
+    institution: IES Comercio
     date_start: 2024-09-09
     date_end: 
     summary: |
@@ -55,6 +55,7 @@ education:
     date_end: 2019-06-30
     summary: |
       Conocimientos en estadística, economía y sociología, aplicados al ámbito social.
+    
 work:
   - position: Desarrolladora Web (Prácticas)
     company_name: Nueva Rioja
@@ -115,7 +116,7 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: AWS Cloud Practitioner
+   - title: AWS Cloud Practitioner
     date: 2023-01-01
     awarder: Amazon Web Services
     summary: Certificación básica en fundamentos de la nube de AWS.

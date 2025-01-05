@@ -32,7 +32,7 @@ education:
     institution: IES Comercio
     date_start: 2024-09-09
     date_end: 2027-06-31
-summary: |
+    summary: |
      Formación integral en programación, diseño y desarrollo de aplicaciones web y multiplataforma.
       Uso de lenguajes como Java, HTML, CSS y PHP. Gestión de bases de datos y metodologías ágiles.
 

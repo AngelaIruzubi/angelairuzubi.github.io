@@ -4,7 +4,7 @@ title: Ángela Iruzubieta García
 
 # Full name (for SEO)
 nombre: Ángela
-apellido: Iruzuieta
+apellido: Iruzubieta
 
 # Status emoji
 status:
@@ -14,10 +14,9 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Desarrolladora web Junior
+role: Desarrolladora Web Junior
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:angelairuzubi97@gmail.com'
@@ -28,12 +27,12 @@ profiles:
     url: https://www.linkedin.com/in/angela-iruzubieta/?originalSubdomain=es
 
 education:
- - area: Doble titulación DAW-DAM
+  - area: Doble titulación DAW-DAM
     institution: IES Comercio
     date_start: 2024-09-09
-    date_end: 2027-06-31
+    date_end: 2027-06-30
     summary: |
-     Formación integral en programación, diseño y desarrollo de aplicaciones web y multiplataforma.
+      Formación integral en programación, diseño y desarrollo de aplicaciones web y multiplataforma.
       Uso de lenguajes como Java, HTML, CSS y PHP. Gestión de bases de datos y metodologías ágiles.
 
   - area: Certificado de profesionalidad en Desarrollo Web
@@ -49,13 +48,14 @@ education:
     date_end: 2023-11-30
     summary: |
       Habilidades en análisis de datos con Google Analytics, SQL, Python (Pandas, NumPy, Matplotlib), Machine Learning, Spark, Databricks, y Kaggle.
+
   - area: Grado Universitario en Trabajo Social
     institution: Universidad de Zaragoza
     date_start: 2016-10-01
     date_end: 2019-06-30
     summary: |
       Conocimientos en estadística, economía y sociología, aplicados al ámbito social.
-    
+
 work:
   - position: Desarrolladora Web (Prácticas)
     company_name: Nueva Rioja
@@ -66,6 +66,7 @@ work:
       - Creación de páginas web desde cero con HTML, CSS y JavaScript.
       - Desarrollo de aplicaciones internas en PHP y gestión de bases de datos.
       - Gestión de contenidos en WordPress y análisis con Google Analytics.
+
   - position: Educadora Social
     company_name: ASPRODEMA
     date_start: 2020-07-01
@@ -73,16 +74,16 @@ work:
     summary: |
       - Coordinación de equipos y gestión de actividades.
       - Seguimiento de usuarios con diversidad intelectual y promoción de vida independiente.
+
   - position: Auxiliar de Residencia
     company_name: Asociación Igual a ti
     date_start: 2019-07-01
     date_end: 2020-06-30
     summary: |
       - Apoyo a personas con diversidad funcional en su día a día.
+
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  skills:
   - name: Tecnologías
     items:
       - name: HTML
@@ -111,12 +112,9 @@ skills:
         description: B2 (First Certificate)
         percent: 75
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-   - title: AWS Cloud Practitioner
+  - title: AWS Cloud Practitioner
     date: 2023-01-01
     awarder: Amazon Web Services
     summary: Certificación básica en fundamentos de la nube de AWS.

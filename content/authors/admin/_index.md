@@ -8,7 +8,7 @@ apellido: Iruzubieta
 
 # Status emoji
 status:
-  icon: ☕
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -82,7 +82,6 @@ work:
     summary: |
       - Apoyo a personas con diversidad funcional en su día a día.
 
-# Skills
 skills:
   - name: Tecnologías
     items:
@@ -111,13 +110,12 @@ skills:
       - name: Inglés
         description: B2 (First Certificate)
         percent: 75
-
-# Awards
 awards:
   - title: AWS Cloud Practitioner
     date: 2023-01-01
     awarder: Amazon Web Services
-    summary: Certificación básica en fundamentos de la nube de AWS.
+    summary: |
+      Certificación básica en fundamentos de la nube de AWS.
 ---
 Trabajadora Social, reconvertida en Desarrolladora Web. A lo largo de mi carrera, he
 acumulado una amplia experiencia en la gestión de equipos, la resolución de conictos y la

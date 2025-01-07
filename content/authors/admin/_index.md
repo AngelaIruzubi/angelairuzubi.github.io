@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Desarrolladora web Junior
+role: Desarrolladora Web Junior
 
 # Social network links
 profiles:
@@ -30,7 +30,7 @@ education:
   - area: Doble titulación DAW-DAM
     institution: IES Comercio
     date_start: 2024-09-09
-    date_end: 2027-06-31
+    date_end: 2027-06-30
     summary: |
       Formación integral en programación, diseño y desarrollo de aplicaciones web y multiplataforma.
       Uso de lenguajes como Java, HTML, CSS y PHP. Gestión de bases de datos y metodologías ágiles.
@@ -110,7 +110,6 @@ skills:
       - name: Inglés
         description: B2 (First Certificate)
         percent: 75
-
 awards:
   - title: AWS Cloud Practitioner
     date: 2023-01-01
@@ -118,3 +117,8 @@ awards:
     summary: |
       Certificación básica en fundamentos de la nube de AWS.
 ---
+Trabajadora Social, reconvertida en Desarrolladora Web. A lo largo de mi carrera, he
+acumulado una amplia experiencia en la gestión de equipos, la resolución de conictos y la
+adaptación a situaciones diversas. Mi enfoque actual se centra en el apasionante mundo del
+desarrollo web con el objetivo de seguir aprendiendo y creciendo en este campo, con la
+aspiración de encontrar un puesto que se ajuste a mi perl Junior.

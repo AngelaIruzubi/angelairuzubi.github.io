@@ -1,4 +1,3 @@
----
 # Display name
 title: Ángela Iruzubieta García
 
@@ -19,12 +18,12 @@ role: Desarrolladora Web Junior
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:angelairuzubi97@gmail.com'
-    label: E-mail Me
+    url: "mailto:angelairuzubi97@gmail.com"
+    label: "E-mail Me"
   - icon: brands/github
-    url: https://github.com/AngelaIruzubieta
+    url: "https://github.com/AngelaIruzubieta"
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/angela-iruzubieta/?originalSubdomain=es
+    url: "https://www.linkedin.com/in/angela-iruzubieta/?originalSubdomain=es"
 
 education:
   - area: Doble titulación DAW-DAM
@@ -59,7 +58,7 @@ education:
 work:
   - position: Desarrolladora Web (Prácticas)
     company_name: Nueva Rioja
-    company_url: https://www.larioja.com/
+    company_url: "https://www.larioja.com/"
     date_start: 2024-09-01
     date_end: 2024-10-31
     summary: |
@@ -105,7 +104,7 @@ skills:
         percent: 50
 
 languages:
-  - name: Ingles
+  - name: Inglés
     percent: 70
   - name: Español
     percent: 100
@@ -116,9 +115,4 @@ awards:
     awarder: Amazon Web Services
     summary: |
       Certificación básica en fundamentos de la nube de AWS.
----
-Trabajadora Social, reconvertida en Desarrolladora Web. A lo largo de mi carrera, he
-acumulado una amplia experiencia en la gestión de equipos, la resolución de conictos y la
-adaptación a situaciones diversas. Mi enfoque actual se centra en el apasionante mundo del
-desarrollo web con el objetivo de seguir aprendiendo y creciendo en este campo, con la
-aspiración de encontrar un puesto que se ajuste a mi perl Junior.
+

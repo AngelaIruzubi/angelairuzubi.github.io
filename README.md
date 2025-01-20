@@ -34,5 +34,5 @@ We're an open source movement that depends on your support to stay online and th
 ## Demo credits
 
 - [Unsplash](https://unsplash.com/) images -->
-Mi CV disponible en: https://angelairuzubi.github.io/'\n'
+Mi CV disponible en: https://angelairuzubi.github.io/|
 Mi CV as a code based on https://github.com/HugoBlox/theme-resume 

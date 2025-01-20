@@ -87,33 +87,23 @@ skills:
     items:
       - name: HTML
         percent: 90
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       - name: CSS
         percent: 80
-        icon: devicon/css3
       - name: Java
         percent: 70
-        icon: devicon/java
       - name: JavaScript
         percent: 70
-        icon: devicon/javascript
       - name: PHP
         percent: 75
-        icon: devicon/php
       - name: Python
         percent: 60
-        icon: devicon/python
       - name: SQL
         percent: 85
-        icon: devicon/azuresqldatabase
       - name: Tableau
         percent: 65
-        icon: devicon/tableau
       - name: AWS
         percent: 50
-        icon: devicon/amazonwebservices
 
- 
 languages:
   - name: Ingles
     percent: 70

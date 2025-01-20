@@ -102,14 +102,13 @@ skills:
       - name: AWS
         percent: 50
 
-  - name: Idiomas
-    items:
-      - name: Español
-        description: Nativo
-        percent: 100
-      - name: Inglés
-        description: B2 (First Certificate)
-        percent: 75
+ 
+languages:
+  - name: Ingles
+    percent: 70
+  - name: Español
+    percent: 100
+
 awards:
   - title: AWS Cloud Practitioner
     date: 2023-01-01

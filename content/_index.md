@@ -37,11 +37,11 @@ sections:
     content:
       title: Technical Skills
       username: admin
-  - block: idiomas
+  - block: languages
     content:
       title: Languages
       username: admin      
-  - block: certificados
+  - block: awards
     content:
       title: Additional
       username: admin

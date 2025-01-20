@@ -119,7 +119,7 @@ awards:
 
 ---
 Trabajadora Social, reconvertida en Desarrolladora Web. A lo largo de mi carrera, he
-acumulado una amplia experiencia en la gestión de equipos, la resolución de conictos y la
+acumulado una amplia experiencia en la gestión de equipos, la resolución de conflictos y la
 adaptación a situaciones diversas. Mi enfoque actual se centra en el apasionante mundo del
 desarrollo web con el objetivo de seguir aprendiendo y creciendo en este campo, con la
-aspiración de encontrar un puesto que se ajuste a mi perl Junior.
+aspiración de encontrar un puesto que se ajuste a mi perfil Junior.

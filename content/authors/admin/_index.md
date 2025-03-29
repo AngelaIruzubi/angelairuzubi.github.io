@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Desarrolladora Web Junior
+role: Junior Web Developer
 
 # Social network links
 profiles:
@@ -27,63 +27,63 @@ profiles:
     url: "https://www.linkedin.com/in/angela-iruzubieta/?originalSubdomain=es"
 
 education:
-  - area: Doble titulación DAW-DAM
+  - area: Dual Degree in Web & Mobile App Development
     institution: IES Comercio
     date_start: 2024-09-09
     date_end: 2027-06-30
     summary: |
-      Formación integral en programación, diseño y desarrollo de aplicaciones web y multiplataforma.
-      Uso de lenguajes como Java, HTML, CSS y PHP. Gestión de bases de datos y metodologías ágiles.
+      Comprehensive training in programming, design, and development of web and multiplatform applications.
+      Use of languages such as Java, HTML, CSS, and PHP. Database management and agile methodologies.
 
-  - area: Certificado de profesionalidad en Desarrollo Web
+  - area: Web Development Professional Certification
     institution: ADR Formación, Logroño
     date_start: 2024-04-01
     date_end: 2024-10-31
     summary: |
-      Formación en front-end y back-end: HTML, CSS, JavaScript, PHP, SQL, y herramientas relacionadas.
+      Training in front-end and back-end development: HTML, CSS, JavaScript, PHP, SQL, and related tools.
 
-  - area: Certificado en Big Data
+  - area: Big Data Certification
     institution: The Valley Digital School / Red.es, Sevilla
     date_start: 2023-09-01
     date_end: 2023-11-30
     summary: |
-      Habilidades en análisis de datos con Google Analytics, SQL, Python (Pandas, NumPy, Matplotlib), Machine Learning, Spark, Databricks, y Kaggle.
+      Skills in data analysis with Google Analytics, SQL, Python (Pandas, NumPy, Matplotlib), Machine Learning, Spark, Databricks, and Kaggle.
 
-  - area: Grado Universitario en Trabajo Social
+  - area: Bachelor's Degree in Social Work
     institution: Universidad de Zaragoza
     date_start: 2016-10-01
     date_end: 2019-06-30
     summary: |
-      Conocimientos en estadística, economía y sociología, aplicados al ámbito social.
+      Knowledge in statistics, economics, and sociology applied to the social field.
 
 work:
-  - position: Desarrolladora Web (Prácticas)
+  - position: Web Developer (Internship)
     company_name: Nueva Rioja
     company_url: "https://www.larioja.com/"
     date_start: 2024-09-01
     date_end: 2024-10-31
     summary: |
-      - Creación de páginas web desde cero con HTML, CSS y JavaScript.
-      - Desarrollo de aplicaciones internas en PHP y gestión de bases de datos.
-      - Gestión de contenidos en WordPress y análisis con Google Analytics.
+      - Built web pages from scratch using HTML, CSS, and JavaScript.
+      - Developed internal applications in PHP and managed databases.
+      - Managed content on WordPress and performed analysis with Google Analytics.
 
-  - position: Educadora Social
+  - position: Social Educator
     company_name: ASPRODEMA
     date_start: 2020-07-01
     date_end: 2023-06-30
     summary: |
-      - Coordinación de equipos y gestión de actividades.
-      - Seguimiento de usuarios con diversidad intelectual y promoción de vida independiente.
+      - Coordinated teams and managed activities.
+      - Monitored users with intellectual disabilities and promoted independent living.
 
-  - position: Auxiliar de Residencia
+  - position: Residential Assistant
     company_name: Asociación Igual a ti
     date_start: 2019-07-01
     date_end: 2020-06-30
     summary: |
-      - Apoyo a personas con diversidad funcional en su día a día.
+      - Provided daily support to individuals with functional diversity.
 
 skills:
-  - name: Tecnologías
+  - name: Technologies
     items:
       - name: HTML
         percent: 90
@@ -105,9 +105,9 @@ skills:
         percent: 50
 
 languages:
-  - name: Inglés
+  - name: English
     percent: 70
-  - name: Español
+  - name: Spanish
     percent: 100
 
 awards:
@@ -115,11 +115,7 @@ awards:
     date: 2023-01-01
     awarder: Amazon Web Services
     summary: |
-      Certificación básica en fundamentos de la nube de AWS.
+      Basic certification in AWS cloud fundamentals.
 
 ---
-Trabajadora Social, reconvertida en Desarrolladora Web. A lo largo de mi carrera, he
-acumulado una amplia experiencia en la gestión de equipos, la resolución de conflictos y la
-adaptación a situaciones diversas. Mi enfoque actual se centra en el apasionante mundo del
-desarrollo web con el objetivo de seguir aprendiendo y creciendo en este campo, con la
-aspiración de encontrar un puesto que se ajuste a mi perfil Junior.
+Social Worker turned Web Developer. Throughout my career, I have gained extensive experience in team management, conflict resolution, and adapting to diverse situations. My current focus is on the exciting world of web development, with the goal of continuing to learn and grow in this field. I aspire to find a position that aligns with my Junior profile.
